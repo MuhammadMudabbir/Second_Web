@@ -1,0 +1,17 @@
+p{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    text-align: center;
+    font-stretch: expanded;
+    text-decoration: underline;
+
+}
+.links{
+    text-align: center;
+    word-spacing: normal;
+}
+img{
+    text-align: center;
+    margin: 0px;
+}
